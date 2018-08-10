@@ -1,7 +1,7 @@
 # Assignment.-Lab-1.2---Code-Challenge
 
 Description:
-    These are my solutions to the coding challenges of my first Operating System course. The coding excercices are the following:
+    These are my solutions to the coding challenges of my first Operating System course. The coding exercises are the following:
     
     Question 1:
         Find the first character in a String that doesn't repeat.
@@ -20,4 +20,4 @@ How to build/run:
       Question 3:Question3.java
               Note: You need to have the BST.java class in the same folder that Question3.java
               
-     Note: I recommend to use an IDE for runnig the clases since the IDE automatically compiles the class when you "run" the file. if you are willing to run this files from terminal, you must first compile the .java files with the command "javac"
+     Note: I recommend to use an IDE for running the classes since the IDE automatically compiles the class when you "run" the file. if you are willing to run this files from terminal, you must first compile the .java files with the command "javac"
