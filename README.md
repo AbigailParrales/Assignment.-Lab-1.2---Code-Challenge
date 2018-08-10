@@ -10,11 +10,14 @@ Description:
     Question 3:
     Given an integer N and a sorted list of k distinct integers in the range 0 to N-1 inclusive, return a uniformly distributed random number from 0 to N-1 which is NOT on the list.
     
-How to build/run
+How to build/run:
+
     For running you need to run the next files:
+    
       Question 1:Question1.java
       Question 2:Question2.java
               Note: You need to have the Heap.java class in the same folder that Question2.java
       Question 3:Question3.java
               Note: You need to have the BST.java class in the same folder that Question3.java
+              
      Note: I recommend to use an IDE for runnig the clases since the IDE automatically compiles the class when you "run" the file. if you are willing to run this files from terminal, you must first compile the .java files with the command "javac"
